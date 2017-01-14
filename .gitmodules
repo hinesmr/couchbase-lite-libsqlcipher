@@ -3,4 +3,4 @@
 	url = https://github.com/sqlcipher/sqlcipher.git
 [submodule "vendor/couchbase-lite-libcrypto"]
 	path = vendor/couchbase-lite-libcrypto
-	url = https://github.com/couchbaselabs/couchbase-lite-libcrypto
+	url = https://github.com/hinesmr/couchbase-lite-libcrypto
